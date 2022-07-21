@@ -1,0 +1,13 @@
+D:\Sistema2015\SistemaPagos\SistemaPagos\bin\Debug\SistemaPagos.exe
+D:\Sistema2015\SistemaPagos\SistemaPagos\bin\Debug\SistemaPagos.pdb
+D:\Sistema2015\SistemaPagos\SistemaPagos\bin\Debug\SistemaPagos.xml
+D:\Sistema2015\SistemaPagos\SistemaPagos\obj\Debug\SistemaPagos.FormAcceso.resources
+D:\Sistema2015\SistemaPagos\SistemaPagos\obj\Debug\SistemaPagos.Resources.resources
+D:\Sistema2015\SistemaPagos\SistemaPagos\obj\Debug\SistemaPagos.vbproj.GenerateResource.Cache
+D:\Sistema2015\SistemaPagos\SistemaPagos\obj\Debug\SistemaPagos.exe
+D:\Sistema2015\SistemaPagos\SistemaPagos\obj\Debug\SistemaPagos.xml
+D:\Sistema2015\SistemaPagos\SistemaPagos\obj\Debug\SistemaPagos.pdb
+D:\Sistema2015\SistemaPagos\SistemaPagos\obj\Debug\SistemaPagos.FormRegistrarAlumnos.resources
+D:\Sistema2015\SistemaPagos\SistemaPagos\obj\Debug\SistemaPagos.FormRegistrarPagos.resources
+D:\Sistema2015\SistemaPagos\SistemaPagos\obj\Debug\Interop.ADODB.dll
+D:\Sistema2015\SistemaPagos\SistemaPagos\obj\Debug\SistemaPagos.vbproj.ResolveComReference.cache
